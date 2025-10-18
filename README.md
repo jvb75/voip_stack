@@ -1,7 +1,7 @@
 # Full VoIP Stack on VMware ESXi (SIP/TLS, SRTP, WebRTC)
 
 ## Objective
-Design a secure, scalable VoIP platform using **ESXi VMs** only (no containers). SIP over **TLS**, media via **RTPengine** (SRTP), and WebRTC support.
+Design a secure, scalable VoIP platform using **ESXi VMs**. SIP over **TLS**, media via **RTPengine** (SRTP), and WebRTC support.
 
 ## Architecture
 ![Architecture](VoIP_Architecture_Diagram.png)
