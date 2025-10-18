@@ -4,7 +4,7 @@
 Design a secure, scalable VoIP platform using **ESXi VMs**. SIP over **TLS**, media via **RTPengine** (SRTP), and WebRTC support.
 
 ## Architecture
-![Architecture](voip_stack.png)
+![Architecture](images/voip_stack.png)
 
 **Components**
 - **Kamailio** – SIP proxy/registrar/LB (SBC role)
